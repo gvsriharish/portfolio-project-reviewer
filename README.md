@@ -243,3 +243,14 @@ uvicorn backend.app.main:app --host 0.0.0.0 --port 8000 --workers 2
 ## License
 
 See `LICENSE`.
+
+
+## Recent Improvements
+
+The Portfolio Project Reviewer continues to be improved with better project analysis,
+clearer recommendations, and a more user-friendly review experience.
+
+### Project Focus
+
+The application helps developers evaluate their GitHub projects by analyzing
+project structure, documentation, code quality, and portfolio readiness.
