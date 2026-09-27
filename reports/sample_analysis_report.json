@@ -1,0 +1,19 @@
+{
+  "project": "Portfolio Project Reviewer",
+  "version": "1.0.0",
+  "benchmark_runs": {
+    "bad_project": {
+      "overall_score": 60,
+      "critical_findings": 2,
+      "high_findings": 4,
+      "status": "COMPLETED"
+    },
+    "improved_project": {
+      "overall_score": 94,
+      "critical_findings": 0,
+      "high_findings": 0,
+      "status": "COMPLETED"
+    },
+    "score_delta": "+34 points"
+  }
+}

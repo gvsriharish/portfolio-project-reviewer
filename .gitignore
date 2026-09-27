@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.pytest-tmp/
+.venv/
+venv/
+venv_ml/
+.pip-audit-cache/
+.npm-cache/
+
+# Node/React
+node_modules/
+dist-frontend/
+dist/
+.eslintcache
+.vite
+*.local
+
+# Environment & Private Configuration
+.env
+.env.*
+!.env.example
+
+# Portfolio Project Reviewer runtime data
+data/*.db
+data/*.db-journal
+data/scratch/*
+!data/.gitkeep
+
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
